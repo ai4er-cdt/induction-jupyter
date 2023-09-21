@@ -1,0 +1,9 @@
+cartopy
+dask
+jupyterlab
+matplotlib
+numpy
+pandas
+scikit-learn
+tqdm
+xarray
