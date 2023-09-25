@@ -1,6 +1,7 @@
 cartopy
 dask
-jupyterlab
+ipython
+jupyter
 matplotlib
 numpy
 pandas
