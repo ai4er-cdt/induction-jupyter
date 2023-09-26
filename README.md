@@ -23,7 +23,9 @@ pip3 install --upgrade pip
 
 ## Conda / Mamba
 
-Anaconda is another package and environment manager
+[Anaconda](https://www.anaconda.com/download) is another package and environment manager.
+
+The other option is [mamba](https://mamba.readthedocs.io/en/latest/mamba-installation.html)
 
 >mamba: a Python-based CLI conceived as a drop-in replacement for conda, 
 offering higher speed and more reliable environment solutions
