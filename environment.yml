@@ -1,0 +1,16 @@
+name: ai4er-ws
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - cmocean
+  - dask
+  - ipython
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
+  - tqdm
+  - xarray
