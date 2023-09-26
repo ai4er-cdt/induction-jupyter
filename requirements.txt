@@ -1,10 +1,12 @@
 cartopy
+cmocean
 dask
 ipython
 jupyter
 matplotlib
 numpy
 pandas
+seaborn
 scikit-learn
 tqdm
 xarray
